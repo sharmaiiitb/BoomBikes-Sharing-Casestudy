@@ -21,7 +21,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-### top affecting features of bike demand are 
+### top affecting features for the bike demand are 
 - temperature
 - weather situation
 - year
@@ -36,10 +36,10 @@
 
 ## Technologies Used
 - python version 3.0+
-- Nmpy
-- Pndas
+- Nampy
+- Pandas
 - Seaborn
-- Statsmodels library
+- Statsmodels
 - Sikit-learn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
