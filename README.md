@@ -1,6 +1,6 @@
 # Project Name
 > BoomBikes Sharing Casestudy using Linear Regression
-> ### # BoomBikes-Sharing-Casestudy
+
 
 
 ## Problem Statement
@@ -59,6 +59,6 @@ This project was done as part of Machine Learning module in ML and AI program co
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project --># BoomBikes-Sharing-Casestudy
+<!-- You don't have to include all sections - just the one's relevant to your project -->
 
 .
