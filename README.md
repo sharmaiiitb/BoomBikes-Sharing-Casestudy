@@ -1,5 +1,6 @@
 # Project Name
 > BoomBikes Sharing Casestudy using Linear Regression
+> ### # BoomBikes-Sharing-Casestudy
 
 
 ## Problem Statement
@@ -49,8 +50,8 @@ This project was done as part of Machine Learning module in ML and AI program co
 
 
 ## Contact
-Project by Pankaj Sharma
-Created by [@sharmaiiitb] Feel free to Contact me !
+### Project by Pankaj Sharma
+- Created by [@sharmaiiitb] Feel free to Contact me !
 
 
 
@@ -59,5 +60,5 @@ Created by [@sharmaiiitb] Feel free to Contact me !
 <!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project --># BoomBikes-Sharing-Casestudy
-# BoomBikes-Sharing-Casestudy
+
 .
