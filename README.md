@@ -35,7 +35,8 @@
 
 
 ## Technologies Used
-- python version 3.0+
+- python version 3.0+ , HTML
+## Library used 
 - Nampy
 - Pandas
 - Seaborn
