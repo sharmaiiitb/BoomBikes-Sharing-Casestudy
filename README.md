@@ -32,18 +32,10 @@
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
 ## Technologies Used
 - python version 3.0+ , HTML
 ## Library used 
-- Nampy
-- Pandas
-- Seaborn
-- Statsmodels
-- Sikit-learn
-
-
+- Nampy, Pandas, Seaborn, Statsmodels, Sikit-learn
 ### Steps Involved for model creation
 - Reading, understanding and visualising the data.
 - Preparing data for modelling.
