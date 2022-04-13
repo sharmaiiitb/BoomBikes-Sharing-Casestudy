@@ -43,6 +43,16 @@
 - Statsmodels
 - Sikit-learn
 
+
+### Steps Involved for model creation
+- Reading, understanding and visualising the data.
+- Preparing data for modelling.
+- Training the model
+- Residual analysis
+- Making Predictions Using the Final Model
+- Model Evaluation on the Test Set
+- Suggestion and Summary.
+
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
