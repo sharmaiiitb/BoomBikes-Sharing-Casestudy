@@ -51,7 +51,7 @@ This project was done as part of Machine Learning module in ML and AI program co
 
 ## Contact
 ### Project by Pankaj Sharma
-- Created by [@sharmaiiitb] Feel free to Contact me !
+- Contact : [@sharmaiiitb] Feel free to Contact me !
 
 
 
